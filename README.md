@@ -18,4 +18,4 @@ CrypticConverse is a real-time chat application that prioritizes security and pr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CrypticConverse.git
+   git clone https://github.com/xlassix/CrypticConverse.git
