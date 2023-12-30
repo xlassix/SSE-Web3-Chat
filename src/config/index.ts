@@ -1,8 +1,8 @@
-import dotenv from 'dotenv';
-import Joi from 'joi';
+import dotenv from "dotenv";
+import Joi from "joi";
 
-const env = process.env.NODE_ENV || 'development';
-dotenv.config({ path: env === 'development' ? '.env.dev' : '.env' });
+const env = process.env.NODE_ENV || "development";
+dotenv.config({ path: env === "development" ? ".env.dev" : ".env" });
 
 const baseConfig = {
   env,
@@ -10,7 +10,7 @@ const baseConfig = {
   environment: process.env.NODE_ENV,
   secrets: {
     jwt: process.env.JWT_SECRET,
-    jwtExp: '1d',
+    jwtExp: "1d",
   },
 };
 

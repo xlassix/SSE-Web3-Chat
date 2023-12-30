@@ -1,4 +1,4 @@
-import { account_json_db } from '../../model/account';
+import { account_json_db } from "../../model/account";
 
 export const register = async (userName: string, publicAddress: string) => {
   try {

@@ -1,11 +1,21 @@
-# node-typescript-project-template
-A simple template for a Node + Typescript project
+# CrypticConverse Backend
 
-## Covers All Essential Setup
-- Local run with hot reload
-- Linting and Formatting 
-- Testing
-- Production build/packaging
-- Production run
+## Description
+CrypticConverse is a real-time chat application that prioritizes security and privacy. Leveraging Server-Sent Events (SSE) and public key cryptography, CrypticConverse provides a seamless and secure platform for users to communicate without storing any messages to a db.
 
-Read Article about initial setup => [Blog Post](https://medium.com/before-semicolon/how-to-setup-a-typescript-nodejs-server-2023-16f3874f2ce5)g
+## Features
+- Real-time messaging using SSE
+- End-to-end encryption with public key cryptography
+- No storage of messages for enhanced privacy
+- Lightweight and efficient backend built with Express.js and TypeScript
+
+## Prerequisites
+- Node.js
+- TypeScript
+- Express.js
+- Any additional dependencies or environment setup requirements
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/CrypticConverse.git

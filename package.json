@@ -21,7 +21,7 @@
   },
   "lint-staged": {
     "src/**/*": [
-      "prettier --single-quote --write"
+      "prettier --write"
     ],
     "**/*.ts": "eslint"
   },
