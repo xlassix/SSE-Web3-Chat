@@ -1,0 +1,7 @@
+{
+    "auth_message": {
+        "0x0000000000000000000000000000000000000000": {
+            "message": "\n    Welcome to CrypticConverse!\n\n    By signing this message, I confirm that:\n    1. I am the rightful owner of the Ethereum account associated with this signature.=\n    2. I consent to use my Ethereum signature for identity verification on CrypticConverse.\n\n    Date: Sat Dec 30 2023 20:22:01 GMT+0100 (West Africa Standard Time)\n    Ethereum Address: 0x0000000000000000000000000000000000000000\n\n    Please sign this message to continue the registration and verify your Ethereum account.\n\n    CrypticConverse\n"
+        }
+    }
+}
